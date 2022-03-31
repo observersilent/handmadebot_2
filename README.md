@@ -1,1 +1,1 @@
-# handmadebot_2
+# Telegram бот парсит новости Яндекса, использует готовую обертку на API Telegram
